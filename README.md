@@ -6,7 +6,7 @@
 ##
 
 ### Link
-<img src="https://img.shields.io/badge/Study Archive-000000?style=flat&logo=notion&logoColor=white"/>   <img src="https://img.shields.io/badge/Algorithm Solving Archive-F16436?style=flat&logo=Tistory&logoColor=white"/>
+<a href="https://muker.notion.site/785c40eb4b314b1bb9f388c06d312ffc?v=cc9290c62ab64293b2b6970f041ad6d4&pvs=4"><img src="https://img.shields.io/badge/Study Archive-000000?style=flat&logo=notion&logoColor=white"/></a>   <a href="https://muker.tistory.com/"><img src="https://img.shields.io/badge/Algorithm Solving Archive-F16436?style=flat&logo=Tistory&logoColor=white"/></a>
 
 ##
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdanr1714)](https://solved.ac/rkdanr1714)
