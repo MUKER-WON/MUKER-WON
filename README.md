@@ -5,7 +5,7 @@
 **My development motto is `겸손하게 정진`.**
 ##
 
-#### 링크
+### 링크
 <img src="https://img.shields.io/badge/Study Archive-000000?style=flat&logo=notion&logoColor=white"/>   <img src="https://img.shields.io/badge/Algorithm Solving Archive-F16436?style=flat&logo=Tistory&logoColor=white"/>
 
 ##
